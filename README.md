@@ -8,3 +8,5 @@ Several modern WAF such Akami, blocks the user via IP address as well as UA. Thi
 To install just download UA-Rotator.py
 Install Jython Module.
 Install the extension as python burp extension.
+
+![burp-ua-rotator](https://github.com/user-attachments/assets/9dd6cf19-327e-4097-8b78-93127ea5b2cf)
